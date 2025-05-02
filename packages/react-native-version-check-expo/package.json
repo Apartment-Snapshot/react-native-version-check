@@ -27,10 +27,11 @@
   "dependencies": {
     "expo-constants": "^14.0.2",
     "expo-localization": "^14.0.0",
-    "react-native-version-check": "^3.4.7"
+    "react-native-version-check": "^3.5.0"
   },
   "devDependencies": {
     "expo": "^33.0.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz"
-  }
+  },
+  "gitHead": "e27b41492192997761847ea93cb492cef7984a5f"
 }
