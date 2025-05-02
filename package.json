@@ -11,8 +11,7 @@
     "test:ios": "cross-env RNVC_DEVICE=ios babel-node scripts/test",
     "test:watch": "babel-node scripts/test --watch",
     "prepublishOnly": "npm run test",
-    "lerna-bootstrap": "lerna bootstrap --hoist",
-    "lerna-publish": "lerna publish --conventional-commits"
+    "lerna-bootstrap": "lerna bootstrap --hoist"
   },
   "husky": {
     "hooks": {

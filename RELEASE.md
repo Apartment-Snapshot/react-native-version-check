@@ -9,8 +9,8 @@
    - ex) When releasing `1.0.0`, `rnvc-expo@1.0.0` should depend on `rnvc@^1.0.0`
    - https://github.com/kimxogus/react-native-version-check/blob/master/packages/react-native-version-check-expo/package.json#L29
 
-3. Run `lerna version VERSION`
+3. Run `git commit VERSION`
 
    - Release commit and tag will be automatically pushed to remote
 
-4. Run `lerna publish from-git` to release to npm
+4. Run `npm exec lerna publish from-git` to release to npm
