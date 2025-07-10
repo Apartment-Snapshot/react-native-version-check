@@ -25,8 +25,8 @@
     "expo": ">=50"
   },
   "dependencies": {
-    "expo-constants": "^17.0.1",
-    "expo-localization": "^16.0.3",
+    "expo-constants": "~17.0.1",
+    "expo-localization": "~16.0.3",
     "react-native-version-check": "^3.5.0"
   },
   "devDependencies": {
